@@ -11,6 +11,11 @@ things... or rather learn a thing or two about grafana plugins. :-)
 
 **Developed against Grafana 6.0.x**
 
+## Screenshots
+
+![Panel preview](extras/screenshot-1.png)
+![Editor preview](extras/screenshot-2.png)
+
 ## Setup
 
 Install dependencies:
