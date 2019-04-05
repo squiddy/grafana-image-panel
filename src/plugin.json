@@ -1,0 +1,25 @@
+{
+  "type": "panel",
+  "name": "Image Panel",
+  "id": "image-panel",
+
+  "dataFormats": [],
+
+  "info": {
+    "description": "Grafana panel to show and refresh a single image",
+    "author": {
+      "name": "Reiner Gerecke",
+      "url": "https://reinergerecke.de"
+    },
+    "keywords": [],
+    "links": [],
+    "screenshots": [],
+    "version": "0.0.1",
+    "updated": "2019-04-05"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.0.x",
+    "plugins": []
+  }
+}
